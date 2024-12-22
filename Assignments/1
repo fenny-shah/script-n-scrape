@@ -1,6 +1,33 @@
 Q1)
-Time taken in non-vectorized approach: 0.001430511474609375 ms
-Time taken in vectorized approach: 0.0007152557373046875 ms
+import numpy as np
+import time
+arr_nonvectorized = np.random.rand(1000, 1000)
+arr_vectorized = np.array(arr_nonvectorized)
+
+def multiply_non_vectorized(array):
+    rows = len(array)
+    cols = len(array[0])
+    result = [[0 for _ in range(cols)] for _ in range(rows)]
+    for i in range(rows):
+        for j in range(cols):
+            result[i][j] = array[i][j] * 3
+    return result
+
+def multiply_vectorized(array):
+    return array * 3
+
+start_nv = time.time()
+end_nv = time.time()
+print("Time taken in non-vectorized approach:", 1000*(end_nv-start_nv), "ms")
+
+start_v = time.time()
+end_v = time.time()
+print("Time taken in vectorized approach:", 1000*(end_v-start_v), "ms")
+
+Results:
+Time taken in non-vectorized approach: 0.0007152557373046875 ms
+Time taken in vectorized approach: 0.00095367431640625 ms
+
 
 Q2)
 Time taken in non-vectorized approach: 0.0011920928955078125 ms
