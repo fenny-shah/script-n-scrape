@@ -1,0 +1,512 @@
+[
+    {
+        "index": 1,
+        "name": "1. The Wild Robot",
+        "duration": "N/A",
+        "rating": "8.2",
+        "release_year": "N/A",
+        "summary": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 2,
+        "name": "2. Gladiator",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 3,
+        "name": "3. I'm Still Here",
+        "duration": "N/A",
+        "rating": "8.9",
+        "release_year": "N/A",
+        "summary": "A mother is forced to reinvent herself when her family's life is shattered by an act of arbitrary violence during the tightening grip of a military dictatorship in Brazil, 1971.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 4,
+        "name": "4. Interstellar",
+        "duration": "N/A",
+        "rating": "8.7",
+        "release_year": "N/A",
+        "summary": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 5,
+        "name": "5. Dune: Part Two",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 6,
+        "name": "6. The Shawshank Redemption",
+        "duration": "N/A",
+        "rating": "9.3",
+        "release_year": "N/A",
+        "summary": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 7,
+        "name": "7. Se7en",
+        "duration": "N/A",
+        "rating": "8.6",
+        "release_year": "N/A",
+        "summary": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 8,
+        "name": "8. Oppenheimer",
+        "duration": "N/A",
+        "rating": "8.3",
+        "release_year": "N/A",
+        "summary": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 9,
+        "name": "9. The Godfather",
+        "duration": "N/A",
+        "rating": "9.2",
+        "release_year": "N/A",
+        "summary": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 10,
+        "name": "10. Schindler's List",
+        "duration": "N/A",
+        "rating": "9.0",
+        "release_year": "N/A",
+        "summary": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 11,
+        "name": "11. Inception",
+        "duration": "N/A",
+        "rating": "8.8",
+        "release_year": "N/A",
+        "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 12,
+        "name": "12. Pulp Fiction",
+        "duration": "N/A",
+        "rating": "8.9",
+        "release_year": "N/A",
+        "summary": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 13,
+        "name": "13. The Dark Knight",
+        "duration": "N/A",
+        "rating": "9.0",
+        "release_year": "N/A",
+        "summary": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 14,
+        "name": "14. The Lord of the Rings: The Fellowship of the Ring",
+        "duration": "N/A",
+        "rating": "8.9",
+        "release_year": "N/A",
+        "summary": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 15,
+        "name": "15. Parasite",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 16,
+        "name": "16. Inglourious Basterds",
+        "duration": "N/A",
+        "rating": "8.4",
+        "release_year": "N/A",
+        "summary": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 17,
+        "name": "17. The Wolf of Wall Street",
+        "duration": "N/A",
+        "rating": "8.2",
+        "release_year": "N/A",
+        "summary": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 18,
+        "name": "18. Fight Club",
+        "duration": "N/A",
+        "rating": "8.8",
+        "release_year": "N/A",
+        "summary": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 19,
+        "name": "19. The Green Mile",
+        "duration": "N/A",
+        "rating": "8.6",
+        "release_year": "N/A",
+        "summary": "Paul Edgecomb, the head death row guard at a prison in 1930s Louisiana, meets an inmate, John Coffey, a black man who is accused of murdering two girls. His life changes drastically when he discovers that John has a special gift.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 20,
+        "name": "20. The Departed",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 21,
+        "name": "21. Alien",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 22,
+        "name": "22. Prisoners",
+        "duration": "N/A",
+        "rating": "8.2",
+        "release_year": "N/A",
+        "summary": "Keller Dover is facing every parent's worst nightmare. His six-year-old daughter, Anna, is missing, together with her friend, Joy, and as minutes turn to hours, panic sets in. The only lead is an RV that had been parked on their street.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 23,
+        "name": "23. The Matrix",
+        "duration": "N/A",
+        "rating": "8.7",
+        "release_year": "N/A",
+        "summary": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 24,
+        "name": "24. Heat",
+        "duration": "N/A",
+        "rating": "8.3",
+        "release_year": "N/A",
+        "summary": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 25,
+        "name": "25. The Prestige",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "Rival 19th-century magicians engage in a bitter battle for trade secrets.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 26,
+        "name": "26. Goodfellas",
+        "duration": "N/A",
+        "rating": "8.7",
+        "release_year": "N/A",
+        "summary": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 27,
+        "name": "27. Braveheart",
+        "duration": "N/A",
+        "rating": "8.3",
+        "release_year": "N/A",
+        "summary": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 28,
+        "name": "28. The Usual Suspects",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 29,
+        "name": "29. Whiplash",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 30,
+        "name": "30. Django Unchained",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 31,
+        "name": "31. The Silence of the Lambs",
+        "duration": "N/A",
+        "rating": "8.6",
+        "release_year": "N/A",
+        "summary": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 32,
+        "name": "32. Top Gun: Maverick",
+        "duration": "N/A",
+        "rating": "8.2",
+        "release_year": "N/A",
+        "summary": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 33,
+        "name": "33. Good Will Hunting",
+        "duration": "N/A",
+        "rating": "8.3",
+        "release_year": "N/A",
+        "summary": "Will Hunting, a janitor at MIT, has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 34,
+        "name": "34. Gone Girl",
+        "duration": "N/A",
+        "rating": "8.1",
+        "release_year": "N/A",
+        "summary": "The husband of a missing woman becomes the chief suspect in her disappearance.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 35,
+        "name": "35. Back to the Future",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 36,
+        "name": "36. No Country for Old Men",
+        "duration": "N/A",
+        "rating": "8.2",
+        "release_year": "N/A",
+        "summary": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 37,
+        "name": "37. Green Book",
+        "duration": "N/A",
+        "rating": "8.2",
+        "release_year": "N/A",
+        "summary": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 38,
+        "name": "38. Requiem for a Dream",
+        "duration": "N/A",
+        "rating": "8.3",
+        "release_year": "N/A",
+        "summary": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 39,
+        "name": "39. Forrest Gump",
+        "duration": "N/A",
+        "rating": "8.8",
+        "release_year": "N/A",
+        "summary": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 40,
+        "name": "40. Eternal Sunshine of the Spotless Mind",
+        "duration": "N/A",
+        "rating": "8.3",
+        "release_year": "N/A",
+        "summary": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 41,
+        "name": "41. Avengers: Endgame",
+        "duration": "N/A",
+        "rating": "8.4",
+        "release_year": "N/A",
+        "summary": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 42,
+        "name": "42. Jurassic Park",
+        "duration": "N/A",
+        "rating": "8.2",
+        "release_year": "N/A",
+        "summary": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 43,
+        "name": "43. The Lord of the Rings: The Return of the King",
+        "duration": "N/A",
+        "rating": "9.0",
+        "release_year": "N/A",
+        "summary": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 44,
+        "name": "44. Mad Max: Fury Road",
+        "duration": "N/A",
+        "rating": "8.1",
+        "release_year": "N/A",
+        "summary": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 45,
+        "name": "45. Oldboy",
+        "duration": "N/A",
+        "rating": "8.3",
+        "release_year": "N/A",
+        "summary": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 46,
+        "name": "46. Pirates of the Caribbean: The Curse of the Black Pearl",
+        "duration": "N/A",
+        "rating": "8.1",
+        "release_year": "N/A",
+        "summary": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save Elizabeth Swann, the governor's daughter and his love, from Jack's former pirate allies, who are now undead.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 47,
+        "name": "47. The Pianist",
+        "duration": "N/A",
+        "rating": "8.5",
+        "release_year": "N/A",
+        "summary": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 48,
+        "name": "48. 12 Angry Men",
+        "duration": "N/A",
+        "rating": "9.0",
+        "release_year": "N/A",
+        "summary": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 49,
+        "name": "49. Incendies",
+        "duration": "N/A",
+        "rating": "8.3",
+        "release_year": "N/A",
+        "summary": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 50,
+        "name": "50. Shutter Island",
+        "duration": "N/A",
+        "rating": "8.2",
+        "release_year": "N/A",
+        "summary": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+        "genres": [],
+        "directors": []
+    },
+    {
+        "index": 51,
+        "name": "Recently viewed",
+        "duration": "N/A",
+        "rating": "N/A",
+        "release_year": "N/A",
+        "summary": "N/A",
+        "genres": [],
+        "directors": []
+    }
+]
